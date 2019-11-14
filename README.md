@@ -1,2 +1,2 @@
 # sample_website
-html course
+A sample website for Learn Enough HTML to Be Dangerous
